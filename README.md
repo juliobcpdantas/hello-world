@@ -1,5 +1,6 @@
-##hello-world
-#Primeiro repositório criado para fins didáticos - Eu nasci, cresci, experienciei e decidi aprender a programar.
+Hello-world
+
+Primeiro repositório criado para fins didáticos - Eu nasci, cresci, experienciei e decidi aprender a programar.
 
 Olá mundo,
 
